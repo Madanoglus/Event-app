@@ -9,7 +9,7 @@
       "DateHour": "22:00",
       "City": "İzmir",
       "Address": "Sığacık Mahallesi 133 Sk. No.10 Seferihisar/İzmir",
-      "img": "./img/ArabeskKabare/ArabeskKabare-1.jpg",
+      "img": "./public/img/ArabeskKabare/ArabeskKabare-1.jpg",
       "CurrentCategory": "Tiyatro"
     },
     {
@@ -21,7 +21,7 @@
       "DateHour": "21:00",
       "City": "İzmir",
       "Address": "Rami Yeni Mah. Kahramanlar Kapısı Kültürpark Fuar Alanı Konak/İzmir",
-      "img": "./img/Taxim/Taxim-1.jpg",
+      "img": "./public/img/Taxim/Taxim-1.jpg",
       "CurrentCategory": "Tiyatro"
     },
     {
@@ -33,7 +33,7 @@
       "DateHour": "21:00",
       "City": "İzmir",
       "Address": "Rami Yeni Mah. Kahramanlar Kapısı Kültürpark Fuar Alanı Konak/İzmir",
-      "img": "./img/SeniUnutmakİstemedimKi/SeniUnutmakİstemedimKi-1.jpg",
+      "img": "./public/img/SeniUnutmakİstemedimKi/SeniUnutmakİstemedimKi-1.jpg",
       "CurrentCategory": "Tiyatro"
     },
     {
@@ -45,7 +45,7 @@
       "DateHour": "21:00",
       "City": "İzmir",
       "Address": "Rami Yeni Mah. Bornova Meydanı A1 Büyük Park İçi Bornova/İzmir",
-      "img": "./img/NazımnameBirGidişHikayesi/NazımnameBirGidişHikayesi-1.jpg",
+      "img": "./public/img/NazımnameBirGidişHikayesi/NazımnameBirGidişHikayesi-1.jpg",
       "CurrentCategory": "Tiyatro"
     },
     {
@@ -57,7 +57,7 @@
       "DateHour": "20:00",
       "City": "İstanbul",
       "Address": "Göztepe Mah. Göztepe Mah. Mustafa Mazhar Bey Sok. Kadıköy/İstanbul",
-      "img": "./img/KorkuyuBeklerken/KorkuyuBeklerken-1.jpg",
+      "img": "./public/img/KorkuyuBeklerken/KorkuyuBeklerken-1.jpg",
       "CurrentCategory": "Tiyatro"
     },
     {
@@ -69,7 +69,7 @@
       "DateHour": "17:00",
       "City": "Ankara",
       "Address": "Ankara - CSO ADA Ankara Açık Alan(Tarihi Salon ÖnüAçıkhava)",
-      "img": "./img/BavulumdaKuklalar/BavulumdaKuklalar-1.png",
+      "img": "./public/img/BavulumdaKuklalar/BavulumdaKuklalar-1.png",
       "CurrentCategory": "Çocuk Tiyatrosu"
     },
     {
@@ -81,7 +81,7 @@
       "DateHour": "14:00",
       "City": "Ankara",
       "Address": "Ankara - CSO ADA ANKARA Mavi Salon",
-      "img": "./img/BirBavulKitap/BirBavulKitap-1.png",
+      "img": "./public/img/BirBavulKitap/BirBavulKitap-1.png",
       "CurrentCategory": "Çocuk Tiyatrosu"
     },
     {
@@ -93,7 +93,7 @@
       "DateHour": "15:00",
       "City": "İzmir",
       "Address": "Tuna Mah. Tiyatro Sok. No: 38 Karşıyaka/İzmir",
-      "img": "./img/BremenMızıkacıları/BremenMızıkacıları-1.jpg",
+      "img": "./public/img/BremenMızıkacıları/BremenMızıkacıları-1.jpg",
       "CurrentCategory": "Çocuk Tiyatrosu"
     },
     {
@@ -105,7 +105,7 @@
       "DateHour": "15:00",
       "City": "İzmir",
       "Address": "Tuna Mah. Tiyatro Sok. No: 38 Karşıyaka/İzmir",
-      "img": "./img/ŞekerKraliçe/ŞekerKraliçe-1.jpg",
+      "img": "./public/img/ŞekerKraliçe/ŞekerKraliçe-1.jpg",
       "CurrentCategory": "Çocuk Tiyatrosu"
     },
     {
@@ -117,7 +117,7 @@
       "DateHour": "15:00",
       "City": "İzmir",
       "Address": "Tuna Mah. Tiyatro Sok. No: 38 Karşıyaka/İzmir",
-      "img": "./img/Heidi/Heidi-1.jpg",
+      "img": "./public/img/Heidi/Heidi-1.jpg",
       "CurrentCategory": "Çocuk Tiyatrosu"
     },
     {
@@ -129,7 +129,7 @@
       "DateHour": "21:00",
       "City": "Antalya",
       "Address": "Şirinyalı, Lara Cd. No:24, 07100 Muratpaşa/Antalya",
-      "img": "./img/AntalyaAkraCazFestivali/AntalyaAkraCazFestivali-1.png",
+      "img": "./public/img/AntalyaAkraCazFestivali/AntalyaAkraCazFestivali-1.png",
       "CurrentCategory": "Caz Festivali"
     },
     {
@@ -141,7 +141,7 @@
       "DateHour": "21:00",
       "City": "İzmir",
       "Address": "Kültürpark Açıkhava Tiyatrosu-İzmir",
-      "img": "./img/HaykoCepkin/HaykoCepkin-1.jpg",
+      "img": "./public/img/HaykoCepkin/HaykoCepkin-1.jpg",
       "CurrentCategory": "Konser"
     },
     {
@@ -153,7 +153,7 @@
       "DateHour": "21:00",
       "City": "İstanbul",
       "Address": "Turkcell Vadi-İstanbul Avrupa",
-      "img": "./img/YıldızTilbe/YıldızTilbe-1.jpg",
+      "img": "./public/img/YıldızTilbe/YıldızTilbe-1.jpg",
       "CurrentCategory": "Konser"
     },
     {
@@ -165,7 +165,7 @@
       "DateHour": "21:00",
       "City": "İstanbul",
       "Address": "Harbiye Cemil Topuzlu Açıkhava Sahnesi-İstanbul Avrupa",
-      "img": "./img/LeventYüksel/LeventYüksel-1.png",
+      "img": "./public/img/LeventYüksel/LeventYüksel-1.png",
       "CurrentCategory": "Konser"
     },
     {
@@ -177,7 +177,7 @@
       "DateHour": "20:30",
       "City": "Bursa",
       "Address": "Balat Atatürk Ormanı-Bursa",
-      "img": "./img/YazzAhmed-TaksimTrio/YazzAhmed-TaksimTrio-1.jpg",
+      "img": "./public/img/YazzAhmed-TaksimTrio/YazzAhmed-TaksimTrio-1.jpg",
       "CurrentCategory": "Caz Festivali"
     },
     {
@@ -189,7 +189,7 @@
       "DateHour": "21:00",
       "City": "Muğla",
       "Address": "Datça Anfi Tiyatro-Muğla",
-      "img": "./img/SeldaBağcan/SeldaBağcan-1.jpg",
+      "img": "./public/img/SeldaBağcan/SeldaBağcan-1.jpg",
       "CurrentCategory": "Konser"
     },
     {
@@ -201,7 +201,7 @@
       "DateHour": "21:00",
       "City": "Ankara",
       "Address": "IF Armada AVM Açıkhava Sahnesi-Ankara",
-      "img": "./img/CemAdrian/CemAdrian-1.jpg",
+      "img": "./public/img/CemAdrian/CemAdrian-1.jpg",
       "CurrentCategory": "Konser"
     },
     {
@@ -213,7 +213,7 @@
       "DateHour": "21:00",
       "City": "Balıkesir",
       "Address": "Ören Açık Hava Tiyatrosu-Balıkesir",
-      "img": "./img/AhmetAslan/AhmetAslan-1.jpg",
+      "img": "./public/img/AhmetAslan/AhmetAslan-1.jpg",
       "CurrentCategory": "Konser"
     },
     {
@@ -225,7 +225,7 @@
       "DateHour": "20:30",
       "City": "Denizli",
       "Address": "Denizli Açık Hava Tiyatrosu-Denizli",
-      "img": "./img/Şimdi90lar/Şimdi90lar-1.png",
+      "img": "./public/img/Şimdi90lar/Şimdi90lar-1.png",
       "CurrentCategory": "Konser"
     },
     {
@@ -237,7 +237,7 @@
       "DateHour": "21:00",
       "City": "Antalya",
       "Address": "Antalya Açıkhava-Antalya",
-      "img": "./img/AhmetAslan-GrupAbdal/AhmetAslan-GrupAbdal-1.jpg",
+      "img": "./public/img/AhmetAslan-GrupAbdal/AhmetAslan-GrupAbdal-1.jpg",
       "CurrentCategory": "Konser"
     }
   ],
