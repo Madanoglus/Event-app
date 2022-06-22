@@ -18,13 +18,13 @@ export default class CityList extends Component {
   
   render() {
     return (
-      <div>
+      <div className='categorylistcity'>
         
         {this.state.cities.map((city) => (
           <div
             onClick={() => this.props.changeCity(city)}
             key={city.id}
-            className="categorylist-items"
+            className="categorylistcity-items"
           >
             {city.City}
           </div>

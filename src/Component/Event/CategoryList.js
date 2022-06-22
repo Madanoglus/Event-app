@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 
-
 class CategoryList extends Component {
   state = {
     categories: [],
@@ -17,16 +16,16 @@ class CategoryList extends Component {
   }
   render() {
     return (
-      <div className="categorylist">
+      <div className="categorylistcity">
         <h1 className="categorylist-h1">Kendine Göre Bir Etkinlik Bul</h1>
         {this.state.categories.map((category) => (
-          <div className="categorylist-item">
+          <div >
             <div
               onClick={() => this.props.changeEvents(category)}
               key={category.id}
-              className="categorylist-items"
+              className="categorylist-item"
             >
-              {category.CategoryName}
+              <h1>{category.CategoryName}</h1>
             </div>
           </div>
         ))}

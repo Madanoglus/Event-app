@@ -13,13 +13,13 @@ class Hedaer extends Component {
         </h1>
         <ul className="main-list">
           <li>
-            <Link className="Link" to="/Events">
+            <Link className="Link-Etkinlikler" to="/Events">
               ETKİNLİKLER
             </Link>
           </li>
 
           <li>
-            <Link className="Link" to="/">
+            <Link className="Link-Anasayfa" to="/">
               ANA SAYFA
             </Link>
           </li>

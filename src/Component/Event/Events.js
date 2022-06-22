@@ -50,7 +50,6 @@ class Events extends Component {
       .then((response) => response.json())
       .then((data) => this.setState({ events: data }))
   }
-  
 
   render() {
     return (
@@ -58,7 +57,7 @@ class Events extends Component {
         <div className="events">
           <div className="categorylist">
             <CategoryList changeEvents={this.changeEvents} />
-            <CityList id="madan" changeCity={this.changeCity} />
+            <CityList changeCity={this.changeCity} />
           </div>
           <div className="categoryname">
             <CategoryName

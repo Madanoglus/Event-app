@@ -25,13 +25,22 @@
   margin-left: auto;
 }
 
-.Link {
+.Link-Etkinlikler {
   padding: 10px;
   border-radius: 5px;
   margin-left: 20px;
 }
 
-.Link:hover {
+.Link-Anasayfa {
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+.Link-Etkinlikler:hover {
+  background-color: yellow;
+  color: gray;
+}
+.Link-Anasayfa:hover {
   background-color: yellow;
   color: gray;
 }
@@ -84,6 +93,7 @@ img {
   flex-direction: column;
   width: 15%;
   text-align: center;
+  margin-right: 20px;
 }
 .categorylist-h1 {
   width: 200px;
@@ -102,7 +112,7 @@ img {
   display: flex;
   flex-direction: row;
   width: 70%;
-  height:487px ;
+  height: 487px;
 }
 .categoryname-conteiner {
   width: 100%;
@@ -111,12 +121,12 @@ img {
 .categories {
   display: flex;
   width: 99%;
-  height: 200px;
+  height: 101px;
   border: 1px solid black;
 }
 .categories-img {
   width: 200px;
-  height: 199px;
+  height: 100px;
 }
 .categories-name {
   margin: 10px;
@@ -131,10 +141,30 @@ img {
   width: 95%;
   height: 487px;
 }
+
 .eventdetail-slider {
-  
   width: 40%;
   height: 487px;
+}
+.eventdetail-comment-name {
+  font-size: 25px;
+  margin: 15px;
+}
+.eventdetail-comment-comment {
+  font-size: 20px;
+  margin: 15px 15px 15px 15px;
+}
+.eventdetail-comment-city {
+  font-size: 25px;
+  margin: 30px 15px 15px 15px;
+}
+.eventdetail-comment-address {
+  font-size: 25px;
+  margin: 15px;
+}
+.eventdetail-comment-date {
+  font-size: 25px;
+  margin: 15px;
 }
 .footer {
   display: flex;
@@ -155,5 +185,90 @@ img {
 }
 .footer-isim {
   color: yellow;
- 
+}
+
+@media only screen and (max-width: 800px) {
+  .Link-Anasayfa {
+    display: none;
+  }
+  .home-h1 {
+    display: flex;
+    height: 66px;
+  }
+  .footer {
+    height: 140px;
+  }
+  .eventdetail {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 1100px;
+  }
+  .eventdetail-slider {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .categorylist {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    height: 100px;
+    width: 99%;
+  }
+  .categorylist-items {
+    display: flex;
+    width: 202px;
+    height: 200px;
+    flex-direction: column;
+  }
+  .categorylist-item {
+    margin-right: 10px;
+  }
+  .categorylist-item:hover {
+    color: gray;
+  }
+  .categorylistcity {
+    display: flex;
+    width: 400px;
+    text-align: center;
+    margin: 3px;
+  }
+  .categorylistcity-items {
+    margin-right: 10px;
+  }
+  .categorylistcity-items:hover {
+    color: gray;
+  }
+  .events {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .categoryname {
+    display: flex;
+    width: 95%;
+    height: 500px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .categories {
+    display: flex;
+    width: 99%;
+    height: 150px;
+  }
+  .categories-img {
+    display: flex;
+    height: 100%;
+    width: 95px;
+  }
+  .categories-name {
+    font-size: 20px;
+    width: auto;
+  }
+  .categorylist-h1 {
+    display: none;
+  }
 }

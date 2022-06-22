@@ -38,10 +38,11 @@ export default class EventsDetails extends Component {
             </div>
             <div className="eventdetail-comment">
               <div>
-                <div>{event.Name}</div>
-                <div>{event.Comment}</div>
-                <div>{event.Name}</div>
-                <div>{event.Address}</div>
+                <div className="eventdetail-comment-name">{event.Name}</div>
+                <div className="eventdetail-comment-comment">{event.Comment}</div>
+                <div className="eventdetail-comment-city">{event.City}</div>
+                <div className="eventdetail-comment-address">{event.Address}</div>
+                <div className="eventdetail-comment-date">Etkinlik Günü: {event.DateDay} --- Etkinlik Saati: {event.DateHour}</div>
               </div>
             </div>
           </div>

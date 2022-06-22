@@ -21,6 +21,7 @@ class CategoryName extends Component {
               </div>
               <div className="categories-title">
                 <h1>{eventsitems.Title}</h1>
+                <h1>{eventsitems.CurrentCategory}</h1>
               </div>
             </div>
           </div>
