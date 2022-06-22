@@ -1,3 +1,13 @@
+Bu web sitesi React kullanılarak inşa edilmiştir. Api'den gelen bilgileri kullanıcının hizmetine sunmaktadır. Add kısmından sepete ürün ekleyebildikleri ilk React uygulamamdır.
+## Kurulum
+```bach
+git clone https://github.com/Madanoglus/Event-app.git
+cd react-api
+json-server --watch db.json
+npm run start
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
