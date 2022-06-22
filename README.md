@@ -1,4 +1,4 @@
-Bu web sitesi React kullanılarak inşa edilmiştir. Api'den gelen bilgileri kullanıcının hizmetine sunmaktadır. Add kısmından sepete ürün ekleyebildikleri ilk React uygulamamdır.
+Bu web sitesi React kullanılarak inşa edilmiştir. Api'den gelen bilgileri kullanıcının hizmetine sunmaktadır.
 ## Kurulum
 ```bach
 git clone https://github.com/Madanoglus/Event-app.git
